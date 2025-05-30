@@ -39,9 +39,6 @@ We want challenge, debate, practical skepticism, and the kind of feedback that m
 
 ---
 
-
----
-
 ## Code of Conduct
 
 We follow the [Contributor Covenant](https://www.contributor-covenant.org/).  
