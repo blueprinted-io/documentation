@@ -85,6 +85,19 @@ Some good starter tasks:
 
 ---
 
+## Practice What We Preach
+
+Blueprinted.io is built on the same principles we enable for learning:
+
+- **Peer review for every change:** All code, documentation, and major config is submitted as a pull request and reviewed by at least one trusted contributor before merging.
+- **Transparent validation:** Discussions, reviews, and decisions are open to all and archived for future contributors to learn from.
+- **Human-in-the-loop:** No code or policy reaches general availability (GA) without explicit review by maintainers with relevant experience.
+- **Continuous improvement:** Every contribution, review, and comment is part of our ongoing evidence of capability—visible, auditable, and open for improvement.
+
+If you want to help build this system, we’ll hold ourselves to the same standard we’re building for the world.
+
+---
+
 ## Legal & Licensing
 
 By contributing, you agree that your code is released under the project’s license (see LICENSE.md).  
