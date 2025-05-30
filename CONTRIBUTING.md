@@ -13,6 +13,7 @@ This project *needs* both technical builders and learning experts:
 - **Coders/Engineers:** Help architect, automate, and optimize the core engine and UI.
 - **Learning Professionals:** Pressure-test the methodology, propose task schema changes, and ensure that “proof” actually means something in the real world.
 - **Hybrid Thinkers:** If you can speak code *and* learning theory, you’re a unicorn—please get involved!
+- **Reviewers:** Even if you’re just here to poke holes, find edge cases, or call out real-world limits, your feedback is welcome.
 
 We want challenge, debate, practical skepticism, and the kind of feedback that makes this work *in reality*, not just on a whiteboard.
 
@@ -21,11 +22,9 @@ We want challenge, debate, practical skepticism, and the kind of feedback that m
 ## How to Contribute
 
 - **Pull Requests:** Fork the repo, create a feature branch, make your changes, and submit a PR.  
-  Please keep PRs focused—one feature or fix per PR is ideal.
-
+  Please keep PRs focused—one feature or fix per PR is ideal. This includes code, sample data, methodology docs, and edge-case test cases.
 - **Issues:** Spot a bug, have a feature request, or want to propose an enhancement? Open an issue!  
   For theory, methodology, or schema debates, tag your issue with `learning-methodology`.
-
 - **Discussions:** For bigger ideas, design debates, or to roast the current state of learning tech, use [GitHub Discussions](https://github.com/YOURREPO/discussions) (or open an issue tagged `discussion`).
 
 ---
