@@ -116,7 +116,7 @@ Switching specs without changing process is like switching your pen and expectin
 If your team is exploring these standards, don’t just ask *what* they do — ask what you're actually trying to achieve.  
 - Need modern, flexible tracking? **xAPI** is your base.  
 - Want to replace SCORM responsibly? **cmi5** is the only realistic candidate.  
-- Still building traditional eLearning modules with no tracking needs beyond "completed"? **SCORM still works**, but don’t pretend it's future-proof.
+- Still building traditional eLearning modules with no tracking needs beyond "completed"? **SCORM still works**, but it's not future-proof.
 
 ---
 
