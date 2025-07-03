@@ -1,24 +1,24 @@
 # Beyond the Wrapper: Why New Tech Doesn’t Automatically Modernize Learning
 
 Modern L&D is filled with buzzwords: microlearning, xAPI, AI copilots, personalized journeys.  
-But here’s the uncomfortable truth — most of these ideas aren’t new, and swapping out technology doesn’t automatically lead to meaningful change in how learning works.
+But here’s the uncomfortable truth, most of these ideas aren’t new, and swapping out technology doesn’t automatically lead to meaningful change in how learning works.
 
 This piece is a companion to our breakdown of SCORM, xAPI, and cmi5. That article focused on standards and tooling.  
-This one looks at the deeper patterns — ideas that keep resurfacing with new language and updated platforms but the same underlying structure.
+This one looks at the deeper patterns, ideas that keep resurfacing with new language and updated platforms but the same underlying structure.
 
 ---
 
 ## Learning Trends in New Packaging
 
 Many of today’s “innovative” approaches are reinterpretations of older theories, often decades old.  
-The packaging has changed — more interactive, more portable, more personalized — but the foundations are largely the same.
+The packaging has changed, more interactive, more portable, more personalized, but the foundations are largely the same.
 
 | Modern Concept                | Original Concept / Era               | Origin Year | Key Figures                          | What’s Actually New (if anything)                                |
 |------------------------------|--------------------------------------|-------------|--------------------------------------|------------------------------------------------------------------|
 | Microlearning                | Just-in-Time Learning                | ~1990       | Gloria Gery                          | Mobile delivery, tighter scoping, more media-rich                |
 | Unstructured Learning        | Informal Learning                    | ~1970s–90s  | Malcolm Knowles                      | Social feeds and AI-curated content, but same informal logic     |
 | Social Learning              | Communities of Practice              | 1991        | Jean Lave, Etienne Wenger            | Tech mediation, but human dynamics remain the same               |
-| Personalized Learning        | Adaptive Instruction                 | ~1960s–90s  | B.F. Skinner, M. Gordon              | Algorithmic scale, richer data—goal still individual alignment   |
+| Personalized Learning        | Adaptive Instruction                 | ~1960s–90s  | B.F. Skinner, M. Gordon              | Algorithmic scale, richer data, goal still individual alignment  |
 | Learning Agility             | Metacognition                        | ~1979–90s   | John Flavell                         | Repackaged reflection and transfer skills                        |
 | Stretch Assignments          | Zone of Proximal Development         | 1978        | Lev Vygotsky                         | Manager-led application of old theory                            |
 | Learning Experience Design   | Instructional Design (ADDIE etc.)    | ~1975–80s   | Robert Gagné, US military training   | UX design layered over traditional ID frameworks                 |
@@ -29,17 +29,17 @@ The packaging has changed — more interactive, more portable, more personalized
 | Goal-Based Scenarios         | Goal-Based Learning                  | 1990s       | Roger Schank                         | Digital simulation replaces paper scenario                       |
 | Situated Cognition           | Situated Learning Theory             | ~1980s      | Jean Lave, John Dewey (indirectly)   | Now marketed as real-world task alignment                        |
 | Performance Support Tools    | Job Aids / Electronic Perf. Support  | ~1980s–90s  | Gloria Gery                          | Delivered inside apps, context-aware                             |
-| Learning Styles[^1]          | Pseudoscientific Typologies          | ~1970s–80s  | Neil Fleming, David Kolb[^2], others | None. Still popular, still unsupported by evidence               |
-| MBTI in L&D[^1]              | Jungian Typology Repackaged          | 1944        | Isabel Briggs Myers, Katharine Cook Briggs | None. Widely used, widely misapplied                             |
+| Learning Styles[^1]          | Pseudoscientific Typologies          | ~1970s–80s  | Neil Fleming, David Kolb[^2], others | None, still popular, still unsupported by evidence               |
+| MBTI in L&D[^1]              | Jungian Typology Repackaged          | 1944        | Isabel Briggs Myers, Katharine Cook Briggs | None, widely used, widely misapplied                        |
 
 ---
 
 ## What Has Actually Changed
 
-The biggest shift hasn’t been conceptual — it’s been technical and operational:
+The biggest shift hasn’t been conceptual, it’s been technical and operational:
 
 - Mobile and on-demand access have made just-in-time learning more feasible.
-- AI has introduced scalable (though not always accurate) personalization.
+- AI has introduced scalable, though not always accurate, personalization.
 - Specifications like xAPI and cmi5 allow for broader and more flexible tracking.
 - Design has become more interactive, more visual, and more integrated.
 
@@ -50,9 +50,9 @@ But the core assumptions about how learning works have stayed largely intact.
 ## Repetition Disguised as Progress
 
 When trends are reintroduced with new labels but unchanged logic, meaningful progress can stall.  
-New terms like “ecosystem,” “experience,” or “agility” often serve as rebranding for older models that were already sound — just underused or misunderstood.
+New terms like “ecosystem,” “experience,” or “agility” often serve as rebranding for older models that were already sound, just underused or misunderstood.
 
-It’s easy to mistake a change in terminology or platform for a change in pedagogy. But unless the learning process itself is restructured, the outcome is usually the same — just better wrapped.
+It’s easy to mistake a change in terminology or platform for a change in pedagogy. But unless the learning process itself is restructured, the outcome is usually the same, just better wrapped.
 
 ---
 
@@ -67,7 +67,7 @@ That includes:
 - Measuring more than completion or attendance  
 - Supporting contextual, real-world learning instead of abstract training
 
-This kind of change doesn’t start with tools. It starts with intent — and process.
+This kind of change doesn’t start with tools. It starts with intent, and process.
 
 ---
 
@@ -77,9 +77,13 @@ Modern tools have made delivery faster and more scalable.
 Modern language has made learning sound more exciting.  
 But without redesigning the foundations, most learning strategies remain rooted in old assumptions.
 
-The challenge — and the opportunity — is not in adopting new technology.  
+The challenge, and the opportunity, is not in adopting new technology.  
 It’s in using it to support a more flexible, meaningful, and evidence-aligned approach to learning itself.
 
 ---
 
-*This article is part of a practical series on learning standards and design logic. If you’re trying to move beyond buzzwords into meaningful learning strategy — you’re in the right place.*
+*This article is part of a practical series on learning standards and design logic. If you’re trying to move beyond buzzwords into meaningful learning strategy, you’re in the right place.*
+
+[^1]: Despite widespread use, both Learning Styles and MBTI have been thoroughly critiqued in academic research. Their persistence is more cultural than scientific.
+
+[^2]: David Kolb’s *Experiential Learning Theory* (1984) is often misrepresented in learning styles discussions. His work emphasized adaptability and cyclical learning, not fixed typologies. He’s included here to acknowledge how often his name is inaccurately pulled into the learning styles debate.
