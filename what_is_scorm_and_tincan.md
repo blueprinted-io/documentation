@@ -6,7 +6,7 @@ This article cuts through the jargon to explain, in plain terms, what these stan
 
 ---
 
-## 🔶 SCORM (Sharable Content Object Reference Model)
+## SCORM (Sharable Content Object Reference Model)
 
 ### What It Is
 A legacy standard from the early 2000s, SCORM is a packaging and tracking format that lets you launch eLearning content from an LMS and track basic completion data.
@@ -32,7 +32,7 @@ SCORM is *stable and known*, but limited. It assumes learning only happens in ti
 
 ---
 
-## 🔷 xAPI (Experience API, aka Tin Can API)
+## xAPI (Experience API, aka Tin Can API)
 
 ### What It Is
 xAPI is a flexible data format (JSON) and communication standard for tracking *any* learning experience. It moves beyond the LMS and can capture informal, offline, and experiential learning.
@@ -54,7 +54,7 @@ xAPI is powerful, but it’s *a toolset, not a solution*. You get raw capability
 
 ---
 
-## 🟢 cmi5 (Computer Managed Instruction — 5th attempt)
+## cmi5 (Computer Managed Instruction — 5th attempt)
 
 ### What It Is
 cmi5 is a specification built on top of xAPI that **reintroduces structure and launchability**, effectively acting as a proper replacement for SCORM.
@@ -76,7 +76,7 @@ cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you
 
 ---
 
-## 🧩 Quick Comparison Table
+## Quick Comparison Table
 
 | Feature                              | SCORM         | xAPI                | cmi5                      |
 |--------------------------------------|----------------|----------------------|----------------------------|
@@ -92,7 +92,7 @@ cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you
 
 ---
 
-## 💥 The Real Issue: It’s Not Technical, It’s Cultural
+## The Real Issue: It’s Not Technical, It’s Cultural
 
 The problem isn’t just SCORM vs xAPI vs cmi5. The real problem is that **modern learning standards only shine when paired with modern learning practices**.
 
