@@ -1,6 +1,6 @@
 # SCORM, xAPI, and cmi5: What They Actually Are and What You Actually Get
 
-In the world of digital learning, few topics generate as much buzz — and as much confusion — as **SCORM**, **xAPI**, and **cmi5**. You’ve probably heard someone say, “We’re moving away from SCORM to xAPI,” or “We’re building for the future with cmi5.” But what do these standards *really* give you?
+In the world of digital learning, few topics generate as much buzz and confusion as **SCORM**, **xAPI**, and **cmi5**. You’ve probably heard someone say, “We’re moving away from SCORM to xAPI,” or “We’re building for the future with cmi5.” But what do these standards *really* give you?
 
 This article cuts through the jargon to explain, in plain terms, what these standards are, what problems they solve, and what limitations they still carry.
 
@@ -9,7 +9,7 @@ This article cuts through the jargon to explain, in plain terms, what these stan
 ## SCORM (Sharable Content Object Reference Model)
 
 ### What It Is
-A legacy standard from the early 2000s, SCORM is a packaging and tracking format that lets you launch eLearning content from an LMS and track basic completion data.
+A legacy standard from the late 1990s/early 2000s, SCORM is a packaging and tracking format that lets you launch eLearning content from an LMS and track basic completion data.
 
 ### What You Actually Get
 - Content that can launch and run inside an LMS
@@ -28,7 +28,7 @@ A legacy standard from the early 2000s, SCORM is a packaging and tracking format
 - Custom tracking or extensibility
 - Analytics that are meaningful in modern L&D
 
-SCORM is *stable and known*, but limited. It assumes learning only happens in tidy packages behind login screens. That’s not how people learn anymore.
+SCORM is *stable and known*, but extremely limited. It assumes learning only happens in tidy packages behind login screens. That’s not how people learn.
 
 ---
 
@@ -40,7 +40,7 @@ xAPI is a flexible data format (JSON) and communication standard for tracking *a
 ### What You Actually Get
 - Tracking of learning anywhere: mobile, VR, in-person, simulations, etc.
 - Storage of learning records in a Learning Record Store (LRS)
-- Custom verbs like “watched”, “repaired”, “mentored”, etc.
+- Custom action verbs like “watched”, “repaired”, “mentored”, etc.
 - Decoupling of content from the LMS
 - Extensibility for bespoke tracking needs
 
