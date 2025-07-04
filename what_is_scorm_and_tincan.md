@@ -6,7 +6,7 @@ The big challenge is that LMS vendors just want to sell solutions to pain points
 
 ### Why Adoption of Modern Standards Is Stuck
 
-One of the biggest blockers in moving beyond SCORM isn’t technology — it’s business incentives and culture.
+One of the biggest blockers in moving beyond SCORM isn’t technology, it’s business incentives and culture.
 
 LMS vendors *know* SCORM is limited, but it’s a sunk cost for many organizations. SCORM support is a checkbox on their sales deck. Saying “our LMS doesn’t support SCORM” is a death sentence. So they keep supporting it while adding “xAPI/CMI5 support” mostly as a buzzword and integrating little of the actual technological backend.
 
