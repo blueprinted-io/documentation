@@ -1,6 +1,6 @@
 # SCORM, xAPI, and cmi5: What They Actually Are and What You Actually Get
 
-I've been talking a lot recently about one of the key challenges in this space: SCORM is understood by businesses and is a sunk cost. An LMS that says it doesn't support SCORM is probably as well not bothering! What we've ended up with is a market of LMSes that market that they support xAPI/CMI5 but they only do in principle i.e., you can upload content formatted that way, but it doesn't mean it'll use it any differently to SCORM.
+I've been talking a lot recently about one of the key challenges in this space: SCORM is understood by businesses but is a sunk cost (both literally and procedurally). An LMS that says it doesn't support SCORM is dead in the water. What we've ended up with is a market of LMSes that market that they support xAPI/CMI5 but they only do in principle i.e., you can upload content formatted that way, but it doesn't mean it'll use it any differently to SCORM.
 
 The big challenge is that LMS vendors just want to sell solutions to pain points; educating their customers that _in order to use this tool properly you need to completely reimagine how you spec, design, and develop learning_ isn't a great sales point.
 
