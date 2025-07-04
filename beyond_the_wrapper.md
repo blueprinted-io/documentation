@@ -1,7 +1,8 @@
 # Beyond the Wrapper: Why New Tech Doesn’t Automatically Modernize Learning
 
 Modern L&D is filled with buzzwords: microlearning, xAPI, AI copilots, personalized journeys.  
-But here is the uncomfortable truth, most of these ideas are not new, and swapping out technology does not automatically lead to meaningful change in how learning works.
+
+Here is the uncomfortable truth, most of these ideas are not new, and swapping out technology does not automatically lead to meaningful change in how learning works.
 
 This piece is a companion to our breakdown of SCORM, xAPI, and cmi5. That article focused on standards and tooling.  
 This one looks at the deeper patterns, ideas that keep resurfacing with new language and updated platforms but the same underlying structure.
@@ -12,9 +13,9 @@ This one looks at the deeper patterns, ideas that keep resurfacing with new lang
 
 One of the most important realities behind the surface of modern L&D trends is this: **learning theory as a field has effectively stalled**.  
 
-Most significant advances in understanding learning now come from neuroscience and cognitive science, which explore brain function, memory, and cognition at a biological level. However, the broader field of learning theory as a "soft" science—the study of how people learn in classrooms, workplaces, or informal settings—has seen very few breakthroughs since the late 20th century.
+Most significant advances in understanding learning now come from neuroscience and cognitive science, which explore brain function, memory, and cognition at a biological level. The broader field of learning theory as a "soft" science—the study of how people learn in classrooms, workplaces, or informal settings, has seen very few breakthroughs since the late 20th century.
 
-This stagnation explains why new pedagogical approaches rarely emerge and why many “innovations” in learning are simply repackaging or rebranding existing concepts. The foundational principles that guide how we design, deliver, and evaluate learning experiences have remained remarkably consistent for decades.
+This stagnation explains why new pedagogical approaches rarely emerge and why many “innovations” in learning are simply repackaging or rebranding existing concepts. The foundational principles that guide how learning experiences function have remained remarkably consistent for decades.
 
 Put simply, the problem is not a lack of technology or new tools. It is that our underlying understanding of *how learning happens* has not dramatically changed in more than thirty years.
 
@@ -57,7 +58,7 @@ The biggest shift has not been conceptual; it has been technical and operational
 - Specifications like xAPI and cmi5 allow for broader and more flexible tracking.
 - Design has become more interactive, more visual, and more integrated.
 
-However, the core assumptions about how learning works have stayed largely intact.
+However, the core assumptions about how learning works have stayed largely intact. The learning industry is now at a point where we can actually implement some of the above in a way that would have an impact, in the past, it was just not feasible.
 
 ---
 
