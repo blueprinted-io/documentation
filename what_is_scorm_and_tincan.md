@@ -63,8 +63,8 @@ xAPI is a flexible data format (JSON) and communication standard for tracking *a
 
 - A standardized way to launch or structure content  
 - Completion/pass/fail logic (you have to define it yourself, manually)  
-- Cohesion — without strict implementation and significant development, an xAPI defined environment becomes a wild west of inconsistent data  
-- Simplicity — implementing xAPI well requires significant dev effort and requires a ground up reimagining of instructional design
+- Cohesion, without strict implementation and significant development, an xAPI defined environment becomes a wild west of inconsistent data  
+- Simplicity, implementing xAPI well requires significant dev effort and requires a ground up reimagining of instructional design
 
 xAPI is powerful, but it’s *a toolset, not a solution*. You get raw capability, not plug-and-play usefulness.
 
@@ -74,7 +74,7 @@ xAPI is powerful, but it’s *a toolset, not a solution*. You get raw capability
 
 ### What It Is
 
-cmi5 is a specification built on top of xAPI that **reintroduces structure and launchability**, effectively acting as a proper replacement for SCORM.
+cmi5 is a specification built on top of xAPI (technically it's a _profile_ of xAPI) that **reintroduces structure and launchability**, effectively acting as a proper replacement for SCORM.
 
 ### What You Actually Get
 
@@ -106,7 +106,7 @@ cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you
 | Course structure             | ✅          | ❌                   | ✅                         |
 | Real-world/offline learning   | ❌          | ✅                   | ✅                         |
 | Data flexibility             | ❌          | ✅                   | ✅                         |
-| Developer friendly           | ❌          | ⚠️ (needs setup)     | ⚠️ (better, still very technical) |
+| Developer friendly           | ❌          | ⚠️ (needs significant setup)| ⚠️ (better, still very technical) |
 | Plug-and-play simplicity      | ✅          | ❌                   | ⚠️ (moderate effort)       |
 
 ---
@@ -122,7 +122,7 @@ These standards were designed to support:
 - Data-driven L&D decision making  
 - Blended, multi-platform learning experiences
 
-But none of that works if you’re still churning out 45-minute courses packed into a single file.
+**But none of that works if you’re still churning out 45-minute courses packed into a single file.**
 
 ### Bottom line:
 
