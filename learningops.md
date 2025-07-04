@@ -76,8 +76,8 @@ That’s what learning needs.
 L&D loves to say it’s “agile.”  
 But most of the time, it just means:
 - Shorter timelines  
-- More standups  
-- Trello boards instead of Gantt charts
+- Fewer resources 
+- Kanban boards instead of Gantt charts
 
 It rarely means:
 - Iterative design  
@@ -99,7 +99,7 @@ Learning still isn’t built to respond.
 
 ---
 
-## Software Solved This
+## Software Development Solved This
 
 Software didn’t evolve by chance.  
 It evolved because people were tired of building things no one used, fixing bugs too late, and guessing what mattered.
@@ -117,7 +117,7 @@ Today, software is:
 Learning could be all those things.
 
 It just has to stop pretending it's unique.  
-The challenges learning teams face — unclear requirements, messy stakeholders, no feedback loops — are the same ones software teams faced 30 years ago.
+The challenges learning teams face; unclear requirements, messy stakeholders, no feedback loops, are the same ones software teams faced 30 years ago.
 
 They figured it out.  
 We can too.
@@ -173,16 +173,16 @@ It just requires intent.
 
 ## Talk to Developers, Not Vendors
 
-Next time a vendor says their platform supports “agile learning,” ask them what their *engineering team* uses to ship software.
+Next time a vendor says their platform supports “agile learning,” ask them how their *engineering team* ships software.
 
-It won’t be SCORM.  
-It won’t be a three-week storyboard approval cycle.  
+It won’t be completion based like SCORM.  
+It won’t be a six-week storyboard approval cycle.  
 It definitely won’t be a launch-and-leave mindset.
 
 If you want to rebuild learning, stop asking vendors for new features.  
-Start asking developers how they solved the same problems you’re facing now.
+Start asking developers how they solved the same problems we’re facing now.
 
-They’ve already built the blueprint.
+They’ve already built the blueprint. We just need to follow it.
 
 ---
 
@@ -201,14 +201,14 @@ They’ve already built the blueprint.
 ## Final Word
 
 LearningOps isn’t a new platform or framework.  
-It’s a shift toward systems that actually work — modular, testable, maintainable, designed for change.
+It’s a shift toward systems that actually work; modular, testable, maintainable, designed for change.
 
 Software stopped being a one-time build.  
 It became something teams evolve, observe, and own.
 
 Learning can be the same.
 
-If you’ve been stuck launching content that disappears, guessing what worked, or trying to improve things with no real feedback — you’re not the problem. The system is.
+If you’ve been stuck launching content that disappears, guessing what worked, or trying to improve things with no real feedback? You’re not the problem. The system is.
 
 The good news? That system can change.
 
