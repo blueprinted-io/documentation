@@ -1,6 +1,6 @@
 # SCORM, xAPI, and cmi5: What They Actually Are and What You Actually Get
 
-I've been talking about one of the key challenges in this space being this: SCORM is understood by businesses and is a sunk cost. An LMS that says it doesn't support SCORM is probably as well not bothering! What we've ended up with is a market of LMSes that market that they support xAPI/CMI5 but they only do in principle — i.e., you can upload content formatted that way, but it doesn't mean it'll use it any differently to SCORM.
+I've been talking about one of the key challenges in this space being this: SCORM is understood by businesses and is a sunk cost. An LMS that says it doesn't support SCORM is probably as well not bothering! What we've ended up with is a market of LMSes that market that they support xAPI/CMI5 but they only do in principle i.e., you can upload content formatted that way, but it doesn't mean it'll use it any differently to SCORM.
 
 The big challenge is that LMS vendors just want to sell solutions to pain points; educating their customers that _in order to use this tool properly you need to completely reimagine how you spec, design, and develop learning_ isn't a great sales point.
 
@@ -8,13 +8,13 @@ The big challenge is that LMS vendors just want to sell solutions to pain points
 
 One of the biggest blockers in moving beyond SCORM isn’t technology — it’s business incentives and culture.
 
-LMS vendors *know* SCORM is limited, but it’s a sunk cost for many organizations. SCORM support is a checkbox on their sales deck. Saying “our LMS doesn’t support SCORM” is a death sentence. So they keep supporting it — often half-heartedly — while adding “xAPI/CMI5 support” mostly as a buzzword.
+LMS vendors *know* SCORM is limited, but it’s a sunk cost for many organizations. SCORM support is a checkbox on their sales deck. Saying “our LMS doesn’t support SCORM” is a death sentence. So they keep supporting it while adding “xAPI/CMI5 support” mostly as a buzzword and integrating little of the actual technological backend.
 
 The hard truth is: educating customers that embracing xAPI or cmi5 means completely reimagining how learning is designed, built, and measured is *not* a great sales pitch. It’s complicated, costly, and threatens the status quo.
 
-As a result, many vendors promote modern standards as features in principle, but don’t help customers actually adopt them. For business leaders, this creates a catch-22: the tech is there, but the organizational mindset, processes, and skills aren’t.
+As a result, many vendors promote modern standards as features in principle, but don’t help customers actually adopt them. For business leaders, this creates a catch-22: the tech exists but nobody is integrating it because in order to sell it, you need to fundamentally change the mindset of your customers.
 
-Ultimately, the real challenge isn’t the specs themselves — it’s shifting the culture and expectations around learning development and measurement. Without that, changing standards is just swapping one box-ticking exercise for another.
+Ultimately, the real challenge isn’t the specs themselves, it’s shifting the culture and expectations around learning development and measurement. Without that, changing standards is just swapping one box-ticking exercise for another.
 
 This is the challenge I see business leaders facing. Although we're talking standards and protocols, it's really in how people see learning development that's the issue.
 
@@ -66,7 +66,7 @@ xAPI is a flexible data format (JSON) and communication standard for tracking *a
 ### What You *Don’t* Get
 
 - A standardized way to launch or structure content  
-- Completion/pass/fail logic (you have to define it yourself)  
+- Completion/pass/fail logic (you have to define it yourself, manually)  
 - Cohesion — without strict implementation and significant development, an xAPI defined environment becomes a wild west of inconsistent data  
 - Simplicity — implementing xAPI well requires significant dev effort and requires a ground up reimagining of instructional design
 
@@ -93,9 +93,9 @@ cmi5 is a specification built on top of xAPI that **reintroduces structure and l
 
 - SCORM backward compatibility (you’ll need new content)  
 - A silver bullet — your learning content still needs to be modular and well-structured, the requirement for reimagining learning strategy from xAPI still remains  
-- Broad adoption — cmi5 is emerging, but not yet universal
+- Broad adoption — cmi5 is emerging, but not yet universal and is often implemented in name only.
 
-cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you the structure needed for real-world implementation.
+cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you the structure needed for real-world implementation but requires a different approach to learning scoping, development, implementation, evaluation and understanding.
 
 ---
 
