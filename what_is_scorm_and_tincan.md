@@ -138,7 +138,7 @@ Switching specs without changing process is like switching your pen and hoping y
 
 ## Final Thought
 
-If your team is exploring these standards, don’t just ask *what* they do — ask what you're actually trying to achieve.  
+If your team is exploring these standards, don’t just ask *what* they do, ask what you're actually trying to achieve.  
 
 - Need modern, flexible tracking? **xAPI** is your base but comes with significant costs in development.  
 - Want to replace SCORM responsibly? **cmi5** is the only realistic candidate but is poorly understood and requires significant changes in design mindset.  
