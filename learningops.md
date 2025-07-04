@@ -4,7 +4,7 @@ Learning is still treated like a project.
 Software used to be too.  
 It evolved.
 
-What emerged in its place was DevOps — a system of continuous, modular, testable, observable development.  
+What emerged in its place was Devops, a system of continuous, modular, testable, observable development.  
 Learning needs the same shift.
 
 Let’s call it **LearningOps**.
