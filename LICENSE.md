@@ -31,7 +31,7 @@ Commercial consulting, support, or integration using blueprinted.io is encourage
 
 ## Trademark Notice
 
-“blueprinted.io” and the blueprinted.io logo are trademarks of [Your Name or Company].  
+“blueprinted.io” and the blueprinted.io logo are trademarks of blueprinted.io.  
 Use of the name and/or logo is subject to trademark guidelines.
 
 ---
