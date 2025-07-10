@@ -133,7 +133,7 @@ It’s that the industry dulled their edges to fit into LMS checklists and forgo
 
 ## The Hidden Cost of Flexibility
 
-One of the biggest selling points of xAPI is its ability to track learning outside the LMS — across apps, devices, classrooms, even real-world tasks.
+One of the biggest selling points of xAPI is its ability to track learning outside the LMS across apps, devices, classrooms, even real-world tasks.
 
 This sounds great in a slide deck. But in practice?
 
@@ -147,7 +147,7 @@ You’ll need to decide:
 - How you're validating that the data actually means something  
 
 And then you’ll need to build the systems to collect and interpret that data.  
-Or worse — outsource it and lose visibility anyway.
+Or worse, outsource it and lose visibility anyway.
 
 > xAPI gives you infinite flexibility, but **zero opinion** on how to use it.  
 > That’s not a flaw, but it does make you responsible for everything.
