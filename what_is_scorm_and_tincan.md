@@ -111,6 +111,26 @@ cmi5 is the spec xAPI should’ve shipped with. It closes the gaps and gives you
 
 ---
 
+## These Standards Weren’t Built for Compliance
+
+SCORM, xAPI, and cmi5 often get dismissed as legacy baggage or needlessly complex. But that’s not what they were built for — and not where they came from.
+
+**AICC** (Aviation Industry CBT Committee) was formed in 1988 by airlines trying to standardize computer-based training for technical roles — pilots, engineers, ground crews. The goal wasn’t completion rates or policy acknowledgment. It was **proving competence in life-critical systems**.
+
+In the late 1990s, the US Department of Defense launched the **Advanced Distributed Learning (ADL)** initiative. SCORM came out of that — an attempt to create interoperable, reusable training for military applications. Later, ADL commissioned **xAPI** to expand tracking beyond LMS boundaries. **cmi5** was introduced to give xAPI the structure it needed for real-world adoption. ADL is still the steward of both specs today.
+
+> These protocols weren’t dreamed up by vendors chasing compliance contracts.  
+> They were designed for domains where **proving skill is non-negotiable**.
+
+And that’s what makes the current situation so frustrating.
+
+As corporate learning pivoted toward **completion-based compliance**, the standards themselves weren’t re-evaluated — they were just repurposed. Over time, the depth, intent, and precision of AICC’s origins got flattened into generic "eLearning packages" that track whether you clicked "Next."
+
+**The real crime isn’t that SCORM or xAPI are outdated.**  
+It’s that the industry dulled their edges to fit into LMS checklists — and forgot what they were actually meant to do.
+
+---
+
 ## The Real Issue: It’s Not Technical, It’s Cultural
 
 The problem isn’t just SCORM vs xAPI vs cmi5. The real problem is that **modern learning standards only shine when paired with modern learning practices**.
