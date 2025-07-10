@@ -131,6 +131,35 @@ It’s that the industry dulled their edges to fit into LMS checklists and forgo
 
 ---
 
+## The Hidden Cost of Flexibility
+
+One of the biggest selling points of xAPI is its ability to track learning outside the LMS — across apps, devices, classrooms, even real-world tasks.
+
+This sounds great in a slide deck. But in practice?
+
+**It means you now have to define, capture, store, and manage all that data yourself.**
+
+Want to track on-the-job performance?  
+You’ll need to decide:
+- What actions you’re tracking  
+- What verbs make sense  
+- Who’s generating the statements  
+- How you're validating that the data actually means something  
+
+And then you’ll need to build the systems to collect and interpret that data.  
+Or worse — outsource it and lose visibility anyway.
+
+> xAPI gives you infinite flexibility, but **zero opinion** on how to use it.  
+> That’s not a flaw, but it does make you responsible for everything.
+
+This is where a lot of teams burn out.  
+They want meaningful data but underestimate the *operational and administrative overhead* of getting it.
+
+**xAPI is only powerful if you have the internal capability to wield it.**  
+Otherwise, you just traded SCORM’s limits for a bottomless to-do list.
+
+---
+
 ## The Real Issue: It’s Not Technical, It’s Cultural
 
 The problem isn’t just SCORM vs xAPI vs cmi5. The real problem is that **modern learning standards only shine when paired with modern learning practices**.
