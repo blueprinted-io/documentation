@@ -8,7 +8,7 @@ LMS vendors *know* SCORM is limited, but it’s a sunk cost for many organizatio
 
 The hard truth is: educating customers that embracing xAPI or cmi5 means completely reimagining how learning is designed, built, and measured is *not* a great sales pitch. It’s complicated, costly, and threatens the status quo.
 
-As a result, many vendors promote modern standards as features in principle, but don’t help customers actually adopt them. For business leaders, this creates a catch-22: the tech exists but nobody is integrating it well because in order to sell it, you need to fundamentally change the mindset of your customers.
+As a result, many vendors promote modern standards as features in principle, but don’t help customers actually adopt them. For business leaders, this creates a catch-22: the tech exists but nobody is integrating it well because in order to sell it, vendors would need to fundamentally change the mindset of their customers.
 
 Ultimately, the real challenge isn’t the specs themselves, it’s shifting the culture and expectations around learning development and measurement. Without that, changing standards is just swapping one box-ticking exercise for another.
 
