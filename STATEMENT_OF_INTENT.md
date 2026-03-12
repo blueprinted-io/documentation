@@ -1,4 +1,4 @@
-# Blueprinted.io — Statement of Intent
+# Blueprinted.io: Statement of Intent
 
 ## Purpose
 
