@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to blueprinted.io!  
 We’re building an AI-native, task-driven learning engine that’s here to kill the box-ticking LMS.  
-Your contributions—whether code, critique, or field wisdom—help make that vision a reality.
+Your contributions, whether code, critique, or field wisdom, help make that vision a reality.
 
 ---
 
